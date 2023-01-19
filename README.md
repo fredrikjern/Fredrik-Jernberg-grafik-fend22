@@ -1,18 +1,22 @@
 ------ Inledning ------
 
-- [ ]  Hemsidan är anpassad för att kunna utvecklas snabbt och effektivt med bootstrap eller annat ramverkbyggt på 12col grid-system med inbyggt stöd för flexbox.kort beskrivning av hemsidan och information som behövs för att kunna bygga den. All infomation om stil
+- [ ]  Hemsidan är anpassad för att kunna utvecklas snabbt och effektivt med bootstrap eller annat ramverkbyggt på 12col grid-system med inbyggt stöd för flexbox.
 
 - [ ] All information om typografi, typsnitt och färger finns definierade i figma-filen
 
 ------ Länkar ------
 
-- [ ]  https://use.fontawesome.com/releases/v6.2.1/fontawesome-free-6.2.1-desktop.zip - Font
+- [ ] Font Awesome - https://use.fontawesome.com/releases/v6.2.1/fontawesome-free-6.2.1-desktop.zip - Font
     
-- [ ]  https://www.figma.com/file/3JC1tD1UqXQaOrtqx4bMKJ/PAT-Foundation?node-id=8%3A1063&t=OQjC9bB8bFDHyYyv-1
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css" integrity="sha384-rbsA2VBKQhggwzxH7pPCaAqO46MgnOM80zW1RWuH61DGLwZJEdK2Kadq2F9CUG65
------- Filformat ------
+- [ ] Figma https://www.figma.com/file/3JC1tD1UqXQaOrtqx4bMKJ/PAT-Foundation?node-id=8%3A1063&t=OQjC9bB8bFDHyYyv-1
+https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css
 
-Skrivit några rader om de filformat du valt att exportera bilderna i och varför du gjort de valen samt om de format du valt behövt några fallback-alternativ.
+------ Fil-format ------
 
-- [ ] SVG - Vektorbilder, skalar perfekt, liten storlek, perfekt för t ex logo.
-- [ ] JPG - Gott stöd, litet. Minus på bildkvaliten.
+- [ ] SVG - Används för logotypen, då denna logotyp är lätt att beskriva med några få matematiska vektorer så kommer SVG-filen bli extremt liten, vara helt loss less och scala perfekt. Perfekt dynamisk och flexibel komponent som går att återanvända.
+
+- [ ] AVIF - Nytt filformat för webben, lossy och renderas, behåller bildkvaliten bra ok och filerna blir små. Finns gott om stöd men ett fallback-alternativ är att föredra. 
+
+- [ ] JPG - Gott stöd, litet. Minus på bildkvaliten. Används som fallback.
+
+Bildunderlaget består av 3 versioner av varje bild, Orginal, AVIF och JPG med 1512px respektive 720px i bredd.
