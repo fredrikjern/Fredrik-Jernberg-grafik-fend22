@@ -6,10 +6,11 @@
 
 ------ Länkar ------
 
-- [ ] Font Awesome - https://use.fontawesome.com/releases/v6.2.1/fontawesome-free-6.2.1-desktop.zip - Font
+- [ ] Font Awesome - https://use.fontawesome.com/releases/v6.2.1/fontawesome-free-6.2.1-desktop.zip
     
 - [ ] Figma https://www.figma.com/file/3JC1tD1UqXQaOrtqx4bMKJ/PAT-Foundation?node-id=8%3A1063&t=OQjC9bB8bFDHyYyv-1
-https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css
+
+- [ ]https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css
 
 ------ Fil-format ------
 
