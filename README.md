@@ -14,10 +14,10 @@
 
     ------ Fil-format ------
 
-- [ ] SVG - Används för logotypen, då denna logotyp är lätt att beskriva med några få matematiska vektorer så kommer SVG-filen bli extremt liten, vara helt loss less och scala perfekt. Perfekt dynamisk och flexibel komponent som går att återanvända.
+- [ ] SVG - Används för logotypen, då denna logotyp är lätt att beskriva med några få matematiska vektorer så SVG-filen kommer att bli extremt liten, vara helt lossless       och skala perfekt. Perfekt dynamisk och flexibel komponent som går att återanvända.
 
-- [ ] AVIF - Nytt filformat för webben, lossy och renderas, behåller bildkvaliten bra ok och filerna blir små. Finns gott om stöd men ett fallback-alternativ är att föredra. 
+- [ ] AVIF - Nytt filformat för webben, lossy och renderas, behåller bildkvaliten bra ok och filerna blir små. Finns gott om stöd men ett fallback-alternativ är att           föredra. 
 
-- [ ] JPG - Gott stöd, liten filstorlek. Minus på bildkvaliten. Används som fallback.
+- [ ] JPG - Gott stöd, liten filstorlek. Används som fallback.
 
 Bildunderlaget består av 3 versioner av varje bild, Orginal, AVIF och JPG med 1512px respektive 720px i bredd.
