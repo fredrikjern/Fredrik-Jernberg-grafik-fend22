@@ -17,6 +17,6 @@ https://cdn.jsdelivr.net/npm/bootstrap@5.2.3/dist/css/bootstrap.min.css
 
 - [ ] AVIF - Nytt filformat för webben, lossy och renderas, behåller bildkvaliten bra ok och filerna blir små. Finns gott om stöd men ett fallback-alternativ är att föredra. 
 
-- [ ] JPG - Gott stöd, litet. Minus på bildkvaliten. Används som fallback.
+- [ ] JPG - Gott stöd, liten filstorlek. Minus på bildkvaliten. Används som fallback.
 
 Bildunderlaget består av 3 versioner av varje bild, Orginal, AVIF och JPG med 1512px respektive 720px i bredd.
